@@ -1,8 +1,8 @@
 {
-    "name": "pxt-pca9685",
-    "version": "0.0.5",
-    "description": "Generic PCA9685 driver for the BBC micro:bit",
-    "license": "MIT",
+    "name": "m-BitBeam",
+    "version": "0.1",
+    "description": "Ovládání mozku pro stavebnici m-BitBeam",
+    "license": "bekousek",
     "dependencies": {
         "core": "*"
     },
