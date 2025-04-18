@@ -1,8 +1,8 @@
 /**
- * PCA9685
+ * Mozek m-BitBeam
  */
 //% weight=100 color=#0fbc11 icon=""
-namespace PCA9685 {
+namespace Mozek m-BitBeam {
     let _DEBUG: boolean = false
     const debug = (msg: string) => {
         if (_DEBUG === true) {
